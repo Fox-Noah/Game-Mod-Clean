@@ -11,12 +11,6 @@
       "type": "relative",
       "excludeFiles": [],
       "deleteFiles": []
-    },
-    {
-      "path": "%localappdata%\\Pal\\Saved\\ABC",
-      "type": "environment",
-      "excludeFiles": [],
-      "deleteFiles": ["123.txt"]
     }
   ]
 }
