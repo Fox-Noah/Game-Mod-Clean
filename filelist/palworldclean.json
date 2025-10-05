@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "path": "Pal\\Content\\Paks",
+      "type": "relative",
+      "excludeFiles": ["Pal-Windows.pak"],
+      "deleteFiles": []
+    },
+    {
+      "path": "Pal\\Binaries\\Win64\\ue4ss",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "%localappdata%\\Pal\\Saved\\ABC",
+      "type": "environment",
+      "excludeFiles": [],
+      "deleteFiles": ["123.txt"]
+    }
+  ]
+}

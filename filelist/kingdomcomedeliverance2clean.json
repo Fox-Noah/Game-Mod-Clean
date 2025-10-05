@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "path": "Mods",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    }
+  ]
+}

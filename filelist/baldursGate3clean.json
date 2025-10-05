@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "path": "bin\\NativeMods",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "Data\\Generated",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "Data\\Public",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "%localappdata%\\Larian Studios\\Baldur's Gate 3\\PlayerProfiles\\Public",
+      "type": "environment",
+      "excludeFiles": [],
+      "deleteFiles": ["modsettings.lsx"]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "path": "SB\\Binaries\\Win64\\ue4ss",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "SB\\Binaries\\Win64",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": ["dwmapi.dll"]
+    },
+    {
+      "path": "SB\\Content\\Paks\\~mods",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [""]
+    },
+    {
+      "path": "SB\\Content\\Paks\\LogicMods",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [""]
+    }
+  ]
+}
