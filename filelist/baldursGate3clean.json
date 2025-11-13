@@ -23,6 +23,12 @@
       "type": "environment",
       "excludeFiles": [],
       "deleteFiles": ["modsettings.lsx"]
+    },
+    {
+      "path": "%localappdata%\\Larian Studios\\Baldur's Gate 3\\Mods",
+      "type": "environment",
+      "excludeFiles": [],
+      "deleteFiles": []
     }
   ]
 }
