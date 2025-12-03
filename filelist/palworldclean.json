@@ -11,6 +11,12 @@
       "type": "relative",
       "excludeFiles": [],
       "deleteFiles": []
+    },
+    {
+      "path": "Pal\\Binaries\\Win64\\Mods",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
     }
   ]
 }
