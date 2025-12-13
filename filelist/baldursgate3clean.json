@@ -19,6 +19,24 @@
       "deleteFiles": []
     },
     {
+      "path": "Data\\Editor",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "Data\\Mods",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "Data\\Projects",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
       "path": "%localappdata%\\Larian Studios\\Baldur's Gate 3\\PlayerProfiles\\Public",
       "type": "environment",
       "excludeFiles": [],
