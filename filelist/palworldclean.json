@@ -19,7 +19,7 @@
       "deleteFiles": []
     },
     {
-      "path": "Pal\\Mods",
+      "path": "Mods",
       "type": "relative",
       "excludeFiles": [],
       "deleteFiles": []
