@@ -13,6 +13,12 @@
       "deleteFiles": []
     },
     {
+      "path": "Pal\\Binaries\\Win64",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": ["dwmapi.dll", "UE4SS-settings.ini", "UE4SS.dll"]
+    },
+    {
       "path": "Pal\\Binaries\\Win64\\Mods",
       "type": "relative",
       "excludeFiles": [],
