@@ -7,22 +7,22 @@
       "deleteFiles": []
     },
     {
-      "path": "Pal\\Binaries\\Win64\\ue4ss",
-      "type": "relative",
-      "excludeFiles": [],
-      "deleteFiles": []
-    },
-    {
       "path": "Pal\\Binaries\\Win64",
       "type": "relative",
       "excludeFiles": [],
-      "deleteFiles": ["dwmapi.dll", "UE4SS-settings.ini", "UE4SS.dll"]
-    },
-    {
-      "path": "Pal\\Binaries\\Win64\\Mods",
-      "type": "relative",
-      "excludeFiles": [],
-      "deleteFiles": []
+      "deleteFiles": [
+        "VTableLayoutTemplates",
+        "UE4SS_Signatures",
+        "ue4ss",
+        "Mods",
+        "MemberVarLayoutTemplates",
+        "MapGenBP",
+        "CustomGameConfigs",
+        "UE4SS.pdb",
+        "UE4SS.dll",
+        "UE4SS-settings.ini",
+        "dwmapi.dll"
+      ]
     },
     {
       "path": "Mods",
