@@ -165,11 +165,6 @@
         "steam_id": 1158370
     },
     {
-        "en_US": "ARK Survival Evolved",
-        "zh_CN": "方舟：生存进化",
-        "steam_id": 346110
-    },
-    {
         "en_US": "ARK: Survival Evolved",
         "zh_CN": "方舟：生存进化",
         "steam_id": 346110
@@ -216,16 +211,6 @@
     {
         "en_US": "Assassins Creed Libertation Remastered",
         "zh_CN": "刺客信条：解放 重制版"
-    },
-    {
-        "en_US": "Assassins Creed Odyssey",
-        "zh_CN": "刺客信条：奥德赛",
-        "steam_id": 812140
-    },
-    {
-        "en_US": "Assassins Creed Origins",
-        "zh_CN": "刺客信条：起源",
-        "steam_id": 582160
     },
     {
         "en_US": "Assassins Creed Rogue",
@@ -839,17 +824,12 @@
         "steam_id": 374320
     },
     {
-        "en_US": "Dark Souls Remastered",
-        "zh_CN": "黑暗之魂 重制版",
-        "steam_id": 570940
-    },
-    {
         "en_US": "Dark Souls: Prepare To Die Edition",
         "zh_CN": "黑暗之魂：受死版"
     },
     {
         "en_US": "Dark Souls: Remastered",
-        "zh_CN": "黑暗之魂：重制版",
+        "zh_CN": "黑暗之魂 重制版",
         "steam_id": 570940
     },
     {
@@ -1128,11 +1108,6 @@
         "steam_id": 243950
     },
     {
-        "en_US": "Divinity Original Sin 2 Definitive Edition",
-        "zh_CN": "神界：原罪2 - 终极版",
-        "steam_id": 435150
-    },
-    {
         "en_US": "Divinity Original Sin Enhanced Edition",
         "zh_CN": "神界：原罪增强版",
         "steam_id": 373420
@@ -1262,16 +1237,6 @@
         "en_US": "DRAGON QUEST XI S: Echoes of an Elusive Age Definitive Edition",
         "zh_CN": "勇者斗恶龙XI S 寻觅逝去的时光 - Definitive Edition",
         "steam_id": 1295510
-    },
-    {
-        "en_US": "Dragon.Ball.FighterZ",
-        "zh_CN": "龙珠斗士Z",
-        "steam_id": 678950
-    },
-    {
-        "en_US": "Dragons Dogma Dark Arisen",
-        "zh_CN": "龙之信条：黑暗觉者",
-        "steam_id": 367500
     },
     {
         "en_US": "Dragon’s Dogma 2",
@@ -1485,11 +1450,6 @@
     },
     {
         "en_US": "Everspace",
-        "zh_CN": "永恒空间",
-        "steam_id": 396750
-    },
-    {
-        "en_US": "EVERSPACE",
         "zh_CN": "永恒空间",
         "steam_id": 396750
     },
@@ -1723,6 +1683,10 @@
     {
         "en_US": "Final Fantasy XVI",
         "zh_CN": "最终幻想XVI"
+    },
+    {
+        "en_US": "FLiNG",
+        "zh_CN": "FLiNG"
     },
     {
         "en_US": "Flintlock: The Siege of Dawn",
@@ -2080,10 +2044,6 @@
         "zh_CN": "杀手3"
     },
     {
-        "en_US": "HITMAN.2",
-        "zh_CN": "杀手2"
-    },
-    {
         "en_US": "Ho Tu Lo Shu The Books of Dragon",
         "zh_CN": "河洛群侠传 (Ho Tu Lo Shu ： The Books of Dragon)",
         "steam_id": 952860
@@ -2314,10 +2274,6 @@
         "zh_CN": "Jump大乱斗"
     },
     {
-        "en_US": "Jump Force",
-        "zh_CN": "Jump大乱斗"
-    },
-    {
         "en_US": "Jurassic World Evolution",
         "zh_CN": "侏罗纪世界：进化",
         "steam_id": 648350
@@ -2351,11 +2307,6 @@
         "en_US": "Killing Floor 3",
         "zh_CN": "杀戮空间3",
         "steam_id": 1430190
-    },
-    {
-        "en_US": "Kingdom Come Deliverance",
-        "zh_CN": "天国：拯救",
-        "steam_id": 379430
     },
     {
         "en_US": "Kingdom Come: Deliverance",
@@ -2510,10 +2461,6 @@
     {
         "en_US": "Lords of Football",
         "zh_CN": "足球之王"
-    },
-    {
-        "en_US": "Lords Of The Fallen",
-        "zh_CN": "堕落之王"
     },
     {
         "en_US": "Lords of the Fallen",
@@ -2692,11 +2639,6 @@
     {
         "en_US": "Metal Gear Solid Delta: Snake Eater",
         "zh_CN": "合金装备3：重制版"
-    },
-    {
-        "en_US": "Metal Gear Solid V The Phantom Pain",
-        "zh_CN": "合金装备5：幻痛",
-        "steam_id": 287700
     },
     {
         "en_US": "Metal Gear Solid V: Ground Zeroes",
@@ -2978,11 +2920,6 @@
         "steam_id": 798460
     },
     {
-        "en_US": "NieR Automata",
-        "zh_CN": "尼尔：机械纪元",
-        "steam_id": 524220
-    },
-    {
         "en_US": "NieR Replicant",
         "zh_CN": "尼尔：人工生命"
     },
@@ -3035,19 +2972,9 @@
         "steam_id": 1325200
     },
     {
-        "en_US": "Nioh Complete Edition",
-        "zh_CN": "仁王 Complete Edition",
-        "steam_id": 485510
-    },
-    {
         "en_US": "Nioh: Complete Edition",
         "zh_CN": "仁王 Complete Edition",
         "steam_id": 485510
-    },
-    {
-        "en_US": "No Mans Sky",
-        "zh_CN": "No Man's Sky 无人深空",
-        "steam_id": 275850
     },
     {
         "en_US": "No Man’s Sky",
@@ -3262,10 +3189,6 @@
     {
         "en_US": "Path Of Wuxia",
         "zh_CN": "侠之道/侠隐阁"
-    },
-    {
-        "en_US": "Pathfinder Kingmaker",
-        "zh_CN": "开拓者：拥王者"
     },
     {
         "en_US": "Pathfinder: Kingmaker",
@@ -3483,11 +3406,6 @@
         "en_US": "Resident Evil 6",
         "zh_CN": "生化危机6",
         "steam_id": 221040
-    },
-    {
-        "en_US": "Resident Evil 7 Biohazard",
-        "zh_CN": "生化危机7",
-        "steam_id": 418370
     },
     {
         "en_US": "Resident Evil 7: Biohazard",
@@ -3748,11 +3666,6 @@
         "steam_id": 269770
     },
     {
-        "en_US": "Sekiro Shadows Die Twice",
-        "zh_CN": "只狼：影逝二度",
-        "steam_id": 814380
-    },
-    {
         "en_US": "Sekiro: Shadows Die Twice",
         "zh_CN": "只狼：影逝二度",
         "steam_id": 814380
@@ -3845,11 +3758,6 @@
     {
         "en_US": "Shoot Many Robots",
         "zh_CN": "机器人暴动"
-    },
-    {
-        "en_US": "Sid Meiers Civilization VI",
-        "zh_CN": "文明6",
-        "steam_id": 289070
     },
     {
         "en_US": "Sid Meier’s Civilization VI",
@@ -4424,11 +4332,6 @@
         "steam_id": 2623190
     },
     {
-        "en_US": "The Elder Scrolls V Skyrim Special Edition",
-        "zh_CN": "上古卷轴5：天际重制版",
-        "steam_id": 489830
-    },
-    {
         "en_US": "The Elder Scrolls V: Skyrim Special Edition",
         "zh_CN": "上古卷轴5：天际重制版",
         "steam_id": 489830
@@ -4690,10 +4593,6 @@
     {
         "en_US": "Total War Warhammer",
         "zh_CN": "全面战争：战锤"
-    },
-    {
-        "en_US": "Total War Warhammer II",
-        "zh_CN": "全面战争：战锤2"
     },
     {
         "en_US": "Total War: PHARAOH DYNASTIES",
@@ -5217,11 +5116,6 @@
         "en_US": "Ys VI The Ark of Napishtim",
         "zh_CN": "伊苏6：纳比斯汀的方舟",
         "steam_id": 312540
-    },
-    {
-        "en_US": "Ys VIII Lacrimosa of Dana",
-        "zh_CN": "伊苏8：达娜的安魂曲",
-        "steam_id": 579180
     },
     {
         "en_US": "Ys VIII: Lacrimosa of Dana",
