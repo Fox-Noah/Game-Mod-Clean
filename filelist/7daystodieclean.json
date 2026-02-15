@@ -5,6 +5,18 @@
       "type": "relative",
       "excludeFiles": ["0_TFP_Harmony"],
       "deleteFiles": []
+    },
+    {
+      "path": "BepInEx",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },  
+    {
+      "path": "0_TFP_Harmony",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
     }
   ]
 }
