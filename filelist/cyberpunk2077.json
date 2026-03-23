@@ -1,0 +1,59 @@
+{
+  "rules": [
+    {
+      "path": "bin\\x64",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": ["version.dll", "global.ini", "LICENSE", "winmm.dll"]
+    },
+    {
+      "path": "bin\\x64\\plugins",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "red4ext",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "r6\\config\\redsUserHints.ini",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "engine\tools",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "engine\\config\\base",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": ["scripts.ini"]
+    },
+    {
+      "path": "r6\\config\\cybercmd",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "archive\\pc\\mod",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "r6\\scripts",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    }
+
+  ]
+}
