@@ -19,7 +19,7 @@
       "deleteFiles": []
     },
     {
-      "path": "r6\\config\\redsUserHints.ini",
+      "path": "r6\\config\\redsUserHints",
       "type": "relative",
       "excludeFiles": [],
       "deleteFiles": []
