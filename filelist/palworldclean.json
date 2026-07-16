@@ -29,6 +29,12 @@
       "type": "relative",
       "excludeFiles": [],
       "deleteFiles": []
+    },
+    {
+      "path": "服务器同步",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
     }
   ]
 }
