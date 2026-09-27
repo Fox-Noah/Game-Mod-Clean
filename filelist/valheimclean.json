@@ -25,7 +25,7 @@
       "deleteFiles": []
     },
     {
-      "path": "",
+      "path": ".",
       "type": "relative",
       "excludeFiles": [],
       "deleteFiles": [
