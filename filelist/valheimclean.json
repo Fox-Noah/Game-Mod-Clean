@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "path": "BepInEx",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "doorstop_libs",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": ".dumps",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "EnhancedValheimVRM",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
+    },
+    {
+      "path": "",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [
+        ".doorstop_version",
+        "doorstop_config.ini",
+        "start_game_bepinex.sh",
+        "start_server_bepinex.sh",
+        "winhttp.dll"
+    ]
+    }
+  ]
+}
