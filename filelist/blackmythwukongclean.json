@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "path": "b1\\Binaries\\Win64",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [
+        "version.dll",
+        "dsound.dll",
+        "_package_meta",
+        "CSharpLoader",
+        "Data",
+        "Mods",
+        "Plugins",
+        "bitfix"
+      ]
+    },
+    {
+      "path": "b1\\Content\\Paks",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [
+        "~mods"
+      ]
+    }
+  ]
+}
