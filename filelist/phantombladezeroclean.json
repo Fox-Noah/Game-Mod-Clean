@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "path": "platform\\steam",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [
+        "dwmapi.dll",
+        "ue4ss"
+      ]
+    },
+    {
+      "path": "ProjectPBZ\\Content\\Paks",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": [
+        "~mods",
+        "LogicMods"
+      ]
+    }
+  ]
+}
