@@ -6,6 +6,7 @@
       "excludeFiles": [],
       "deleteFiles": [
         "dwmapi.dll",
+        "hid.dll",
         "ue4ss"
       ]
     },
@@ -17,6 +18,12 @@
         "~mods",
         "LogicMods"
       ]
+    },
+    {
+      "path": "ProjectPBZ\\Content\\JavaScript",
+      "type": "relative",
+      "excludeFiles": [],
+      "deleteFiles": []
     }
   ]
 }
